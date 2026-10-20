@@ -12,3 +12,8 @@ curl -s https://api.groq.com/openai/v1/chat/completions \
       }
     ]
   }' | jq -r '.choices[0].message.content // .error.message'
+
+
+API key:
+
+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
