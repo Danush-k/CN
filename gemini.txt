@@ -1,0 +1,15 @@
+npm install -g @google/gemini-cli  
+
+gemini --version
+
+gemini
+
+/model
+
+export GEMINI_API_KEY=""
+
+
+API KEYS:
+DanushAQAb8RN6JiCboUFXlg1E3cGBB_JyLmY2dHlwUDvGWLSbG_A5yVUQ
+
+DanushAQAb8RN6JB-B6_lq33alyzgX8lI47fjAFWJohfewnf7n5JCQ-p9Q

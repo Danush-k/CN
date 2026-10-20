@@ -1,0 +1,21 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Compiled binaries
+*.o
+*.out
+/DNS/dns_server
+/DNS/dns_client
+/error_detection/checksum
+/error_detection/checksum_sender
+/error_detection/checksum_receiver
+/error_detection/crc
+/error_detection/crc_sender
+/error_detection/crc_receiver
+/http_socket_lab/http_client
+/http_socket_lab/https_client
+/student_info_sockets/tcp_server
+/student_info_sockets/tcp_client
+/student_info_sockets/udp_server
+/student_info_sockets/udp_client

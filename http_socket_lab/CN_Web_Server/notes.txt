@@ -1,0 +1,19 @@
+==================================================
+        COMPUTER NETWORKS LABORATORY (CN LAB)
+==================================================
+
+Experiment: HTTP Client using TCP Sockets in C
+Objective: Download resources from HTTP server and measure performance.
+
+Files Hosted on Server:
+1. index.html - Sample HTML Webpage
+2. notes.txt   - Plain text notes
+3. sample.pdf  - Sample document in PDF format
+4. image.jpg   - Sample image in JPEG format
+
+Performance Metrics Measured:
+- TCP Connection Establishment Time (ms)
+- Response Time (Time to First Byte / TTFB)
+- Total Download / Transfer Time (ms)
+- Total Data Size (Bytes / KB)
+- Network Throughput (KB/s & Mbps)
